@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Titillium+Web:wght@700&display=swap');
+
+  @media screen and (max-width: 769px) {
+    .site {
+        margin: 0;
+        padding: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        margin-top: 50px;
+        transform: translateY(20%);
+    }
+    
+    
+    #profile {
+        border-radius: 100%;
+        width: 165px;
+        height: 165px;
+    }
+    
+    
+    h1 {
+        font-size: 30px;
+    }
+    
+    h2 {
+        margin-top: -22px;
+        font-weight: 400;
+    }
+    
+    #github {
+        width: 50px;
+        height: 50px;
+        margin: 8px;
+    }
+    
+    #instagram {
+        width: 50px;
+        height: 50px;
+        margin: 8px;
+    }
+    
+    #snapchat {
+        width: 50px;
+        height: 50px;
+        margin: 8px;
+    }
+    
+    #github:hover {
+        width: 60px;
+        height: 60px;
+    }
+    
+    #instagram:hover {
+        width: 60px;
+        height: 60px;
+    }
+    
+    #snapchat:hover {
+        width: 60px;
+        height: 60px;
+    }
+    
+    @media screen and (min-width: 550px) {
+        .site {
+            margin: 0;
+            padding: 0;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            margin-top: 50px;
+            transform: translateY(20%);
+        }
+    
+        #profile {
+            border-radius: 100%;
+            width: 300px;
+            height: 300px;
+        }
+        
+        
+        h1 {
+            font-size: 45px;
+        }
+        
+        h2 {
+            margin-top: -35px;
+            font-weight: 400;
+        }
+        
+        #github {
+            width: 75px;
+            height: 75px;
+            margin: 8px;
+        }
+        
+        #instagram {
+            width: 75px;
+            height: 75px;
+            margin: 8px;
+        }
+        
+        #snapchat {
+            width: 75px;
+            height: 75px;
+            margin: 8px;
+        }
+        
+        #github:hover {
+            width: 75px;
+            height: 75px;
+        }
+        
+        #instagram:hover {
+            width: 75px;
+            height: 75px;
+        }
+        
+        #snapchat:hover {
+            width: 75px;
+            height: 75px;
+        }    
+      }
+  }
+
+  @media screen and (min-width: 770px) {
+    .site {
+        margin: 0;
+        padding: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        margin-top: 50px;
+        transform: translateY(20%);
+    }
+
+    #profile {
+        border-radius: 100%;
+        width: 300px;
+        height: 300px;
+    }
+    
+    
+    h1 {
+        font-size: 45px;
+    }
+    
+    h2 {
+        margin-top: -35px;
+        font-weight: 400;
+    }
+    
+    #github {
+        width: 75px;
+        height: 75px;
+        margin: 8px;
+    }
+    
+    #instagram {
+        width: 75px;
+        height: 75px;
+        margin: 8px;
+    }
+    
+    #snapchat {
+        width: 75px;
+        height: 75px;
+        margin: 8px;
+    }
+    
+    #github:hover {
+        width: 90px;
+        height: 90px;
+    }
+    
+    #instagram:hover {
+        width: 90px;
+        height: 90px;
+    }
+    
+    #snapchat:hover {
+        width: 9    0px;
+        height: 90px;
+    }    
+  }
